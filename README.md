@@ -25,9 +25,6 @@ It’s designed for learning how databases actually work under the hood, with a 
 
 ---
 
-
----
-
 ## ⚙️ Getting Started  
 
 ### 🧩 Prerequisites  
