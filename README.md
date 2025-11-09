@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-orange)
 
 > A lightweight, terminal-based SQL engine written in pure Python — minimal, educational, and surprisingly powerful.
 
@@ -10,7 +9,7 @@
 
 ## 🚀 Overview  
 
-**MiniDB** is a minimal in-memory database that mimics core SQL functionality — `CREATE`, `INSERT`, `SELECT`, `UPDATE`, `DELETE`, etc.  
+**MiniDB** is a minimal in-memory database that mimics core SQL functionality — `CREATE`, `INSERT`, `SELECT`, `UPDATE`, `DELETE`,`WHERE`,`DROP`,`DELETE`,`TRUNCATE` etc.  
 It’s designed for learning how databases actually work under the hood, with a clean modular design separating command parsing and data storage.
 
 ---
@@ -37,8 +36,8 @@ It’s designed for learning how databases actually work under the hood, with a 
 
 ### 🏃 Run MiniDB  
 ```bash
-- git clone https://github.com/Harshpatil0508/OwnDatabase.git
-- cd OwnDatabase
-- python main.py
+git clone https://github.com/Harshpatil0508/OwnDatabase.git
+cd OwnDatabase
+python main.py
 
 
